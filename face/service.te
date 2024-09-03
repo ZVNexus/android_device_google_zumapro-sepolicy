@@ -1,0 +1,1 @@
+type hal_face_debug_service, service_manager_type, protected_service, hal_service_type;
